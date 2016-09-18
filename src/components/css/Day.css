@@ -1,0 +1,8 @@
+.Calender-table {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    width: 33vw;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 15px auto;
+}
