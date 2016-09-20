@@ -1,3 +1,11 @@
+Cal__Header__dateWrapper Cal__Header__day Cal__Header__active .Cal__Header__date {
+  font-size: 26px;
+}
+
+.Cal__Header__root {
+  height: 60px;
+}
+
 .App {
   text-align: center;
 }
